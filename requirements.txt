@@ -60,3 +60,4 @@ watchdog==6.0.0
 yt-dlp==2025.5.22
 zipp==3.23.0
 PyPDF2
+altair.vegalite.v4
